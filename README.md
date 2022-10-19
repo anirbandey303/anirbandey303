@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anirbandey303
 - 👀 I’m interested in web application developnet
 - 🌱 I’m currently learning Spark for Big Data
-- 💞️ I’m looking to collaborate on Web developnent projects
+- 💞️ I’m looking to collaborate on Web development projects
 - 📫 Send me a DM
 
 <!---

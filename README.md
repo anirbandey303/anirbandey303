@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @anirbandey303
-- 👀 I’m interested in web application developnet
-- 🌱 I’m currently learning Spark for Big Data
-- 💞️ I’m looking to collaborate on Web development projects
+- 👋 Hi, I’m [Anirban Dey](https://twitter.com/_anirbandey_)
+- 👀 I’m interested in application development & data engineering.
+- 🌱 I’m currently learning Azure Databricks Notebook.
+- 💞️ I’m looking to collaborate on python projects.
 - 📫 Send me a DM
 
 <!---

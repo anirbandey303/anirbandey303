@@ -8,9 +8,9 @@
 
 [<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="100">](https://docs.python.org/3/library/index.html) 
 [<img src="https://seeklogo.com/images/P/postqresql-logo-AD0E066492-seeklogo.com.png" alt="postgresql" width="100">](https://www.postgresql.org/docs/) 
-[<img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" alt="html" width="100">](https://developer.mozilla.org/en-US/) 
-[<img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" alt="css" width="100">](https://developer.mozilla.org/en-US/docs/Web/CSS) 
-[<img src="https://seeklogo.com/images/J/javascript-logo-E967E87D74-seeklogo.com.png" alt="javascript" width="100">](https://javascript.info/document) 
+[<img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" alt="html" width="80" height="120">](https://developer.mozilla.org/en-US/) 
+[<img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" alt="css" width="80" height="120">](https://developer.mozilla.org/en-US/docs/Web/CSS) 
+[<img src="https://seeklogo.com/images/J/javascript-logo-E967E87D74-seeklogo.com.png" alt="javascript" width="80" height="120">](https://javascript.info/document) 
 [<img src="https://seeklogo.com/images/P/php-logo-ADE513E748-seeklogo.com.png" alt="php" width="125" height="100">](https://www.php.net/docs.php) 
 
 ## Connect with me 🤝 ##

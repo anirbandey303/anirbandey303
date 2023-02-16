@@ -1,7 +1,5 @@
 <!--suppress HtmlDeprecatedAttribute -->
 [<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://www.linkedin.com/in/anirbandey303/) 
-[<img align='right' alt="GitHub User's stars" src="https://img.shields.io/github/stars/anirbandey303?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social">](https://github.com/anirbandey303?tab=repositories&q=&type=&language=&sort=stargazers) 
-[<img align='right' alt="GitHub followers" src="https://img.shields.io/github/followers/anirbandey303?&logoColor=red&style=social">](https://github.com/anirbandey303?tab=followers) 
 [<img align='right' alt="GitHub forks" src="https://img.shields.io/github/forks/anirbandey303/A-Dynamic-E-Commerce-Website?logoColor=red&style=social">](https://github.com/anirbandey303/) 
 
 # Hey there fellow Developer! 👋 Nice to meet you... #
@@ -45,6 +43,8 @@
 ------
 
 __Author:__ [Anirban Dey](https://github.com/anirbandey303)
+[<img align='right' alt="GitHub User's stars" src="https://img.shields.io/github/stars/anirbandey303?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social">](https://github.com/anirbandey303?tab=repositories&q=&type=&language=&sort=stargazers) 
+[<img align='right' alt="GitHub followers" src="https://img.shields.io/github/followers/anirbandey303?&logoColor=red&style=social">](https://github.com/anirbandey303?tab=followers) 
 
 
 <!---

@@ -4,7 +4,7 @@
 
 # Hey there fellow Developer! 👋 #
 
-## Technologies I Use 💻 ##
+## Technologies I use 💻 ##
 
 [<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="100">](https://docs.python.org/3/library/index.html) 
 [<img src="https://seeklogo.com/images/P/postqresql-logo-AD0E066492-seeklogo.com.png" alt="postgresql" width="100">](https://www.postgresql.org/docs/) 

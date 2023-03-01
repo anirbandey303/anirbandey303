@@ -21,11 +21,11 @@
 
 ## Profile Stats 📈 ##
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anirbandey303&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anirbandey303&layout=default&theme=gotham&hide_border=true&card_width=355&langs_count=3)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=anirbandey303&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anirbandey303&layout=default&theme=gotham&hide_border=true&card_width=355&langs_count=3)
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=anirbandey303&theme=onestar&no-frame=true&column=3&row=2)
+![trophy](https://github-profile-trophy-sigma-five.vercel.app/?username=anirbandey303&theme=onestar&no-frame=true&column=3&row=2)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=anirbandey303&theme=gotham&hide_border=true)](https://git.io/streak-stats)
 
 

@@ -8,10 +8,10 @@
 
 [<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="100">](https://docs.python.org/3/library/index.html) 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="100">](https://www.postgresql.org/docs/) 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="80" height="120">](https://developer.mozilla.org/en-US/) 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="80" height="120">](https://developer.mozilla.org/en-US/docs/Web/CSS) 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="120">](https://javascript.info/document) 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="125" height="100">](https://www.php.net/docs.php) 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="80" height="120">]([https://developer.mozilla.org/en-US/](https://aws.amazon.com/)) 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" alt="airflow" width="80" height="120">](https://airflow.apache.org/) 
+[<img src="https://www.vectorlogo.zone/logos/informatica/informatica-icon.svg" alt="informatica" width="80" height="120">](https://www.informatica.com/) 
+<!-- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="125" height="100">](https://www.php.net/docs.php) -->
 
 ## Connect with me 🤝 ##
 

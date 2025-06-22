@@ -11,7 +11,7 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="80" height="120">]([https://developer.mozilla.org/en-US/](https://aws.amazon.com/)) 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" alt="airflow" width="80" height="120">](https://airflow.apache.org/) 
 [<img src="https://www.vectorlogo.zone/logos/informatica/informatica-icon.svg" alt="informatica" width="80" height="120">](https://www.informatica.com/) 
-<!-- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="125" height="100">](https://www.php.net/docs.php) -->
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="125" height="100">](https://www.php.net/docs.php)
 
 ## Connect with me 🤝 ##
 

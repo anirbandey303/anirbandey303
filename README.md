@@ -7,17 +7,17 @@
 ## Technologies I use 💻 ##
 
 [<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="100">](https://docs.python.org/3/library/index.html) 
-[<img src="https://seeklogo.com/images/P/postqresql-logo-AD0E066492-seeklogo.com.png" alt="postgresql" width="100">](https://www.postgresql.org/docs/) 
-[<img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" alt="html" width="80" height="120">](https://developer.mozilla.org/en-US/) 
-[<img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" alt="css" width="80" height="120">](https://developer.mozilla.org/en-US/docs/Web/CSS) 
-[<img src="https://seeklogo.com/images/J/javascript-logo-E967E87D74-seeklogo.com.png" alt="javascript" width="80" height="120">](https://javascript.info/document) 
-[<img src="https://seeklogo.com/images/P/php-logo-ADE513E748-seeklogo.com.png" alt="php" width="125" height="100">](https://www.php.net/docs.php) 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="100">](https://www.postgresql.org/docs/) 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="80" height="120">](https://developer.mozilla.org/en-US/) 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="80" height="120">](https://developer.mozilla.org/en-US/docs/Web/CSS) 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="120">](https://javascript.info/document) 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="125" height="100">](https://www.php.net/docs.php) 
 
 ## Connect with me 🤝 ##
 
 <!-- [<img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="gmail" width="50">](mailto:voko.aleksey@gmail.com) -->
-[<img src="https://seeklogo.com/images/L/linkedin-in-icon-logo-2E34704F04-seeklogo.com.png" alt="linkedin" width="50">](https://www.linkedin.com/in/anirbandey303/) 
-[<img src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png" alt="twitter" width="50">](https://twitter.com/_anirbandey_) 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" width="50">](https://www.linkedin.com/in/anirbandey303/) 
+<!-- [<img src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png" alt="twitter" width="50">](https://twitter.com/_anirbandey_) -->
 
 ## Profile Stats 📈 ##
 

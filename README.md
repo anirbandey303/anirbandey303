@@ -17,7 +17,7 @@
 
 <!-- [<img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="gmail" width="50">](mailto:voko.aleksey@gmail.com) -->
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" width="50">](https://www.linkedin.com/in/anirbandey303/) 
-<!-- [<img src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png" alt="twitter" width="50">](https://twitter.com/_anirbandey_) -->
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="github" width="50">](https://twitter.com/_anirbandey_)
 
 ## Profile Stats 📈 ##
 
